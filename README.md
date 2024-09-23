@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋
+I'm currently studying at HEIG-VD
 
 <!--
 **AlexB-HEIG/AlexB-HEIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
